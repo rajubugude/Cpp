@@ -11,6 +11,7 @@ using namespace std;
 
 //       // pointer stores address
 
+
 //       // int *ptr  => this is a syntax to create a pointer, here ptr is a pointer to integer
 //       // char *ptr => this is a syntax to create a pointer, here ptr is a pointer to character
 //       int *ptr = &num; //pointer declaration
